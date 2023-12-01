@@ -6,6 +6,18 @@ Bienvenue dans le projet test React ! Ce projet vise à servir de base pour dém
 
 [![Stars](https://img.shields.io/github/stars/ENPAJ/opensource_pro.svg)](https://github.com/ENPAJ/opensource_pro/stargazers)
 
+(https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)](https://github.com/ENPAJ/opensource_pro/stargazers)
+
+(https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+
+https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+
+https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+
 ## Installation
 
 Pour utiliser ce projet, suivez ces étapes simples :
