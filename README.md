@@ -6,6 +6,14 @@ Bienvenue dans le projet test React ! Ce projet vise à servir de base pour dém
 
 [![Stars](https://img.shields.io/github/stars/ENPAJ/opensource_pro.svg)](https://github.com/ENPAJ/opensource_pro/stargazers)
 
+[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)](https://github.com/ENPAJ/opensource_pro/stargazers)
+
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/) [![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+
+
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/) [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+
+
 ## Installation
 
 Pour utiliser ce projet, suivez ces étapes simples :
@@ -14,6 +22,8 @@ Pour utiliser ce projet, suivez ces étapes simples :
     ```bash
     git clone https://github.com//ENPAJ/opensource_pro.git
     ```
+
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 
 2. Installez les dépendances nécessaires avec npm ou yarn :
     ```bash
@@ -25,6 +35,8 @@ Pour utiliser ce projet, suivez ces étapes simples :
 3. Démarrez l'application en mode développement :
     ```bash
     npm start
+    # ou
+    npm run dev
     # ou
     yarn start
     ```
